@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkForUpdate>
+	<updateData>
+		<appVersionMajor>1</appVersionMajor>
+		<appVersionMinor>0</appVersionMinor>	
+		<changeLogMsgs>
+			<chgLogMsg langID="en">
+				<p></p>
+			</chgLogMsg>
+			
+			<chgLogMsg langID="el">
+				<p></p>
+			</chgLogMsg>
+		</changeLogMsgs>
+		<WRTAppFileURL>http://mobilergon.com/wrtapps/calstats/calstats.wgz</WRTAppFileURL>
+	</updateData>
+	
+	<announce>
+		<announceMsgs>
+			<announceMsg langID="en">
+				<p>Thank you for using Calendar Stats!</p>
+				<p><em>Update: </em><span>New Calendar Stats' page in MobilErgon's site!</span></p>
+				<p>- Write a review in Calendar Stats' page in Ovi Store.</p>
+				<p><span>- Tell us your opinion about Calendar Stats using our </span><em>Facebook</em><span> page, our </span><em>Twitter</em><span> account or just sending an e-mail to </span><em>support@mobilergon.com</em></p> 
+			</announceMsg>
+			
+			<announceMsg langID="el">
+				<p>Ευχαριστούμε για την χρήση του Calendar Stats!</p>
+				<p><em>Ενημέρωση: </em><span>Νέα σελίδα για το Calendar Stats στο site της MobilErgon!</span></p>
+				<p>- Γράψτε σχόλιο στην σελίδα του Calendar Stats στο Ovi Store.</p>
+				<p><span>- Πείτε μας τη γνώμη σας στη σελίδα μας στο </span><em>Facebook</em><span>, στο </span><em>Twitter</em><span> ή με e-mail στο </span><em>support@mobilergon.com</em></p>
+			</announceMsg>			
+		</announceMsgs>
+		<announceVisitURL>http://mobilergon.com/calstats.html</announceVisitURL>
+	</announce>
+</checkForUpdate>

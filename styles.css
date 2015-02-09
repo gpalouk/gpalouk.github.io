@@ -1,0 +1,207 @@
+body {
+	font-family: "Nokia Sans", sans-serif;
+	font-size: 100% 
+	margin: 0;
+	background: #e3d7f4;
+}
+
+#container {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 5px 5px;
+}
+
+#mobergLogo {
+	display: block;
+	margin: 0px auto;
+	border: none;
+}
+
+#aboutMoberg ul {
+	list-style: url("gfx/green-bullet.png");	
+}
+
+h1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 150%;
+}
+
+#appsList {
+	margin-top: 15px;
+}
+
+h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 140%;
+}
+
+p {
+	margin: 10px 10px;
+	text-align: justify;
+}
+
+ul {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 20px;
+}
+
+ul ul {
+	padding-left: 10px;
+}
+
+em {
+	font-size: 102%;
+	/*font-weight: bold; */
+}
+
+.appLogo {
+	margin: 0px 10px 5px 0px;
+	float: left;
+	clear: left;
+	border: none;
+}
+
+.appSpecs a, .appSpecs a:link, .appSpecs a:hover, .appSpecs a:active, .appSpecs a:visited {
+	text-decoration: none;
+}
+
+.appSpecs img {
+	border: none;
+}
+
+.appDescr {
+	display: block;
+	clear: both;
+}
+
+.goAppPage {
+	text-align: center;
+	font-size: 105%;
+	font-weight: bold;
+}
+
+.goAppPage a, .goAppPage a:link, .goAppPage a:active, .goAppPage a:visited {
+	color: #cb0607;
+	text-decoration: none;
+}
+
+.goAppPage a:hover {
+	color: #00007a;
+}
+
+.goAppPage img {
+	border: none;
+	margin: 0px 5px;
+}
+
+.appFeat span {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 100%
+}
+
+.appFeat ul {
+	list-style: url("gfx/green-bullet.png");	
+}
+
+.appFeat ul ul {
+	list-style: url("gfx/orange-bullet.png");	
+}
+
+.appFeat ul ul li {
+	margin-bottom: 7px;
+	text-align: justify;
+}
+
+.appFeat a, .appFeat a:link, .appFeat a:active, .appFeat a:visited, .appLangSupp a, .appLangSupp a:link, .appLangSupp a:active, .appLangSupp a:visited {
+	text-decoration: underline;
+	color: #cb0607;
+}
+
+.appFeat a:hover, .appLangSupp a:hover {
+	text-decoration: none;
+}
+ 
+.appLangSupp ul {
+	list-style: url("gfx/blue-bullet.png");	
+}
+
+.appKnownIss ul {
+	list-style: url("gfx/red-bullet.png");	
+}
+
+.appKnownIss ul ul {
+	list-style: url("gfx/green-tick.png");	
+}
+
+.appChangeLog ul {
+	list-style: url("gfx/blue-bullet.png");	
+}
+
+.appChangeLog ul ul {
+	list-style: url("gfx/orange-tick.png");	
+}
+
+.appLangSupp li, .appKnownIss li, .appChangeLog li {
+	margin-bottom: 7px;
+	text-align: justify;
+}
+ 
+.appScrShotCont {
+	display: block;
+	margin: 5px auto;
+	text-align: center;
+}
+
+.appScrShotCont p {
+	text-align: center;	
+}
+
+.appScrShotCont img {
+	display: inline;
+	margin: 0px 10px;
+	border: none;	
+}
+
+.appScrShotCont a, .appScrShotCont a:link, .appScrShotCont a:hover, .appScrShotCont a:active, .appScrShotCont a:visited {
+	text-decoration: none;
+	text-align: center;
+}
+
+.support img {
+	display: block;
+	margin: 2px auto;
+	border: none;
+}
+
+.support ul {
+	list-style: url("gfx/green-tick.png");
+}
+
+#social {
+	margin: 20px 5px 10px 5px;
+}
+
+#social p {
+	text-align: center;
+}
+
+#socialIcons {
+	display: block;
+	margin: 10px auto;
+	text-align: center;	
+}
+
+#socialIcons img {
+	display: inline;
+	margin: 0px 25px;
+	border: none;	
+}
+
+#footer p {
+	text-align: center;
+}
